@@ -61,13 +61,21 @@ Dune Query Link: https://dune.com/queries/5618550 - (Custom WBTC whale transacti
 5. Project Structure
 
 ├── database/
+
 │   ├── WBTC_prices.pkl
+
 │   ├── WBTC_mcaps.pkl
+
 │   ├── WBTC_total_volumes.pkl
+
 │   ├── WBTC_dune_data.pkl
+
 ├── .env
+
 ├── requirements.txt
+
 ├── analysis_notebook.ipynb
+
 └── README.md
 
 6. Environment Variables
